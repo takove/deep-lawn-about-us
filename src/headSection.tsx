@@ -6,7 +6,7 @@ export function HeadSection() {
       <div className='my-12 mx-4 flex-col text-center'>
         <h1 className="text-4xl font-bold text-white">About Deep Lawn</h1>
         <p className='text-white m-4 text-lg'>Deep Lawn helps lawn service companies do e-commerce like the tech companies.</p>
-        <button className='text-white font-bold text-lg bg-green-600 transition ease-in-out delay-800 hover:scale-105 hover:bg-green-500 duration-150 p-2 px-14 mt-8'>Sign Up</button>
+        <button className='text-white font-bold text-lg bg-indigo-600 transition ease-in-out delay-800 hover:scale-105 hover:bg-indigo-700 duration-150 p-2 px-14 mt-8'>Sign Up</button>
       </div>
     </div>
   );
