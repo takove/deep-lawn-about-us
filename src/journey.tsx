@@ -10,9 +10,9 @@ export function Journey() {
                 <div className="py-3 sm:max-w-7xl sm:mx-auto w-full px-2 sm:px-0">
                     <div className="relative text-gray-700 antialiased text-sm font-semibold">
                         {/* Vertical bar running through middle */}
-                        <div className="hidden sm:block w-1 bg-gray-600 absolute h-full left-1/2 transform -translate-x-1/2" />
+                        <div className="z-0 block w-1 bg-gray-600 absolute h-full left-1/2 transform -translate-x-1/2" />
                         {/* Left section, set by justify-start and sm:pr-8 */}
-                        <div className="mt-10 sm:mt-0 sm:mb-12">
+                        <div className="z-40 mt-10 sm:mt-0 sm:mb-12 relative">
                             <div className="flex flex-col sm:flex-row items-center">
                                 <div className="flex justify-start w-full mx-auto items-center">
                                     <div className="w-full sm:w-1/2 sm:pr-8">
@@ -33,7 +33,7 @@ export function Journey() {
                             </div>
                         </div>
                         {/* Right section, set by justify-end and sm:pl-8 */}
-                        <div className="mt-20 sm:mt-0 sm:mb-12">
+                        <div className="z-40 mt-20 sm:mt-0 sm:mb-12 relative">
                             <div className="flex flex-col sm:flex-row items-center">
                                 <div className="flex justify-end w-full mx-auto items-center">
 
@@ -57,7 +57,7 @@ export function Journey() {
                             </div>
                         </div>
                         {/* Left section, set by justify-start and sm:pr-8 */}
-                        <div className="mt-20 sm:mt-0 sm:mb-12">
+                        <div className="z-40 mt-20 sm:mt-0 sm:mb-12 relative">
                             <div className="flex flex-col sm:flex-row items-center">
                                 <div className="flex justify-start w-full mx-auto items-center">
                                     <div className="w-full sm:w-1/2 sm:pr-12">
@@ -78,7 +78,7 @@ export function Journey() {
                             </div>
                         </div>
                         {/* Right section, set by justify-end and sm:pl-8 */}
-                        <div className="mt-20 sm:mt-0">
+                        <div className="z-40 mt-20 sm:mt-0 relative">
                             <div className="flex flex-col sm:flex-row items-center">
                                 <div className="flex justify-end w-full mx-auto items-center">
                                     <div className="w-full sm:w-1/2 sm:pl-12">
