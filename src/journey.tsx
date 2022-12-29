@@ -22,7 +22,7 @@ export function Journey() {
 
 
                                         </div>
-                                        <div className="p-4 bg-white rounded shadow text-xl font-normal">
+                                        <div className="text-justify p-4 bg-white rounded shadow text-xl font-normal">
                                             Joel and Toby Northrup incorporated their lawn care business in 2011. At first, it was a way to save money for college, but quickly became much more than that. The brothers had their challenges along the way, but grew the business as they added additional services and opened up a few satellite branches across Eastern Iowa.
                                         </div>
                                     </div>
@@ -45,7 +45,7 @@ export function Journey() {
 
 
                                         </div>
-                                        <div className="p-4 bg-white rounded shadow text-xl font-normal">
+                                        <div className="text-justify p-4 bg-white rounded shadow text-xl font-normal">
                                             In 2019, the brothers received an offer from a larger company in the area to acquire their company. The offer was too good to turn down so Joel and Toby decided to sell the company. After 8 long years of work in the lawn care industry, the brothers were excited to take a break. Little did they know that they would someday work again in the green industry.
                                         </div>
                                     </div>
@@ -67,7 +67,7 @@ export function Journey() {
 
 
                                         </div>
-                                        <div className="p-4 bg-white rounded shadow text-xl font-normal">
+                                        <div className="text-justify p-4 bg-white rounded shadow text-xl font-normal">
                                             Shortly after the acquisition, Joel graduated from the University of Iowa and moved to Texas to work as a machine learning engineer at Samsung. Toby entered his Junior year at the University of Iowa as an engineering student. During nights and weekends, Joel began to think about using Machine Learning to automatically measure lawns. This would solve one of the key issues that Joel and Toby's lawn care company had faced - not being able to give quotes quickly and accurately. The brothers also saw huge potential. In a world where everyone owns a smartphone, and regularly makes 1-click purchases on Amazon, why are there no lawn care companies that offer online ordering? Joel and Toby set about to solve these problems as they coded after work/class, and every weekend for over a year.
                                         </div>
                                     </div>
@@ -88,7 +88,7 @@ export function Journey() {
 
 
                                         </div>
-                                        <div className="p-4 bg-white rounded shadow text-xl font-normal">
+                                        <div className="text-justify p-4 bg-white rounded shadow text-xl font-normal">
                                             In early 2021, Joel, Toby, and a few early employees launched Deep Lawn in beta with 10 companies across the country. This early period of testing and getting feedback was crucial to improving the product. Later that year, Deep Lawn opened to the public. Since the launch, Deep Lawn has constantly been innovating and building tools to make life easier, more efficient, and bring ROI to lawn care, pest control and snow removal companies all over the USA and Canada. What started as a high school side hustle, has become a software business that is changing the game in the outdoor services industries.
                                         </div>
                                     </div>
