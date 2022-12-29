@@ -15,7 +15,7 @@ export function Journey() {
                         <div className="z-40 mt-10 sm:mt-0 sm:mb-12 relative">
                             <div className="flex flex-col sm:flex-row items-center">
                                 <div className="flex justify-start w-full mx-auto items-center">
-                                    <div className="w-full sm:w-1/2 sm:pr-8">
+                                    <div className="w-full sm:w-1/2 sm:pr-12">
                                         <div className='flex justify-center' >
 
                                             <img className='rounded-lg' src="https://res.cloudinary.com/dcomv7wly/image/upload/v1671906624/the-beginning_fjhsar.jpg" alt="" />
